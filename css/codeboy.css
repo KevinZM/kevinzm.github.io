@@ -17,7 +17,7 @@ h6 {
   font-family: "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   line-height: 1.7;
   line-height: 1.1;
-  font-weight: 800;
+  font-weight: 80;
 }
 h1 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -223,7 +223,7 @@ hr.small {
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 5px;
+  font-size: 50px;
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
